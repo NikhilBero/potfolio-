@@ -378,24 +378,9 @@ word-spacing: 3px;
     margin-left: auto;
     margin-right: 2vw;
   }
-  .git-container{
-    position: fixed;
-     bottom: 15%;
-     right: 5vw;
-
+  #git{
+  display:none;
   }
-  #git{ 
-    height: 100px;
-  width: 100px;
-  }
-  #git::before{
-    display: none;
-  }
-  .git-text{
-    font-size: 0.9rem;
-    line-height: 15px;
-  }
-      }
 
 /* About Section */
 
